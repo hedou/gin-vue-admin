@@ -19,6 +19,8 @@
 [插件仓库以及开发规范](https://github.com/flipped-aurora/gva-plugins):https://github.com/flipped-aurora/gva-plugins
 
 [审批流分支](https://github.com/flipped-aurora/gin-vue-admin/tree/gva_workflow): https://github.com/flipped-aurora/gin-vue-admin/tree/gva_workflow
+						       
+[setup语法糖版本地址](https://github.com/flipped-aurora/gin-vue-admin/tree/gva-vue3-setup): https://github.com/flipped-aurora/gin-vue-admin/tree/gva-vue3-setup
 
 # 项目文档
 [在线文档](https://www.gin-vue-admin.com) : https://www.gin-vue-admin.com
@@ -28,6 +30,8 @@
 [从环境到部署教学视频](https://www.bilibili.com/video/BV1Rg411u7xH)
 
 [开发教学](https://www.gin-vue-admin.com/docs/help) (贡献者:  <a href="https://github.com/LLemonGreen">LLemonGreen</a> And <a href="https://github.com/fkk0509">Fann</a>)
+
+[交流社区](https://support.qq.com/products/371961)
 
 # 重要提示
 
